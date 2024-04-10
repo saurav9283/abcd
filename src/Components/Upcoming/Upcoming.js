@@ -28,6 +28,7 @@ const Upcoming = () => {
         display: "flex",
         flexDirection: "column",
         justifyContent: "start",
+        overflow: "hidden",
       }}
     >
       <div
